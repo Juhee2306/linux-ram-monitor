@@ -39,9 +39,9 @@ chmod +x ram_status.sh
 ---
 
 ## To view logs:
-
+```bash
 cat ram_monitor.log
-
+```
 ---
 
 ## Why This Project
