@@ -23,8 +23,11 @@ The script is designed to be lightweight, portable, and suitable for automation.
 
 ## Project Structure
 linux-ram-monitor/
+
 │── ram_status.sh
+
 │── ram_monitor.log
+
 │── README.md
 
 
@@ -46,9 +49,13 @@ cat ram_monitor.log
 
 ## Why This Project
 This project was built to practice:
+
 Linux system monitoring concepts
+
 Writing conditional logic in Bash
+
 Logging system data with timestamps
+
 Creating scripts that can later be automated using tools like cron
 
 ---
