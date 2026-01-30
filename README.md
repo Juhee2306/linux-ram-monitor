@@ -50,13 +50,13 @@ cat ram_monitor.log
 ## Why This Project
 This project was built to practice:
 
-Linux system monitoring concepts
+- Linux system monitoring concepts
 
-Writing conditional logic in Bash
+- Writing conditional logic in Bash
 
-Logging system data with timestamps
+- Logging system data with timestamps
 
-Creating scripts that can later be automated using tools like cron
+- Creating scripts that can later be automated using tools like cron
 
 ---
 
