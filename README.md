@@ -35,6 +35,7 @@ linux-ram-monitor/
 chmod +x ram_status.sh
 ./ram_status.sh
 
+```
 ---
 
 ## To view logs:
